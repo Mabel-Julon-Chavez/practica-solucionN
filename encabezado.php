@@ -16,6 +16,7 @@
 <body>
     <!-- Definición del menú -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+        <span class="mascot-icon">&#x1F431;</span>
         <a class="navbar-brand" target="_blank" href="https://tecsup.instructure.com/courses/25788">
         PostgreSQL-PHP | Por Mabel Julon
         </a>
