@@ -6,10 +6,10 @@
 head {
     padding-top: 70px;
     background-color: bisque;
-    color: white;
+    color: rgb(101, 6, 6);
 }
 body {
     padding-top: 70px;
-    background-color: bisque;
+    background-color: rgb(242, 211, 173);
     color: rgb(159, 8, 8);
 }
