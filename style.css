@@ -13,3 +13,21 @@ body {
     background-color: rgb(242, 211, 173);
     color: rgb(159, 8, 8);
 }
+
+.navbar {
+  background-color: #007BFF; /* Fondo azul */
+  padding: 10px 0; /* Añade espacio arriba y abajo de la barra */
+}
+
+/* Estilos para el icono de "mascotita" */
+.mascot-icon {
+  font-size: 32px;
+  margin-right: 10px; /* Espacio entre el icono y el texto */
+}
+
+/* Centrar el contenido de la barra de navegación */
+.navbar-brand,
+.navbar-nav {
+  display: flex;
+  align-items: center;
+}
