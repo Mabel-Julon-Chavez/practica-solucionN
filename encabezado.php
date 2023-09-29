@@ -36,6 +36,3 @@
     </nav>
     <!-- Termina la definición del menú -->
     <main role="main" class="container">
-
-    
-</body>       

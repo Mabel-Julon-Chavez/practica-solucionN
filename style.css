@@ -3,6 +3,11 @@
   no es necesario
 */
 
+head {
+  padding-top: 70px;
+  background-color: bisque;
+  color: white;
+}
 body {
     padding-top: 70px;
     background-color: bisque;
