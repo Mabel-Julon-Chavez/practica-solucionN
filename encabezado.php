@@ -10,25 +10,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- Cargar estilos propios -->
     <link href="estilos/main.css" rel="stylesheet">
-    <style>
-        /* Estilos para la parte superior */
-        .header {
-            background-color: #007BFF; /* Color de fondo azul */
-            color: white;
-            padding: 20px;
-            text-align: center;
-        }
-
-        /* Estilos para el icono de "mascotita" */
-        .mascot-icon {
-            font-size: 48px;
-        }
-
-        /* Estilos adicionales para el contenido principal */
-        .container {
-            margin-top: 20px;
-        }
-    </style>
+    
 </head>
 <body>
     <!-- Encabezado mejorado -->

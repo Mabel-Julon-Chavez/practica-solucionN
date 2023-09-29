@@ -7,22 +7,20 @@ body {
     padding-top: 70px;
 }
 
+
 .header {
-  background-color: #007BFF;
+  background-color: #007BFF; /* Color de fondo azul */
   color: white;
   padding: 20px;
+  text-align: center;
 }
 
-/* Estilos para botones */
-.btn-custom {
-  background-color: #007BFF;
-  color: white;
+/* Estilos para el icono de "mascotita" */
+.mascot-icon {
+  font-size: 48px;
 }
 
-/* Estilos para el formulario */
-.form-container {
+/* Estilos adicionales para el contenido principal */
+.container {
   margin-top: 20px;
-  padding: 20px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
 }
