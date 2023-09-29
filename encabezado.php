@@ -1,35 +1,26 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Conexión de PHP con PostgreSQL usando PDO">
     <meta name="author" content="Odenfis">
     <title>PostgreSQL-PHP | Por Mabel Julon</title>
-    <!-- Cargar el CSS de Bootstrap desde la carpeta "css" -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Cargar el CSS de Boostrap-->
+    <link href="./bootstrap.min.css" rel="stylesheet">
     <!-- Cargar estilos propios -->
-    <link href="estilos/main.css" rel="stylesheet">
-    
+    <link href="style.css" rel="stylesheet">
 </head>
-<body>
-    <!-- Encabezado mejorado -->
-    <div class="header">
-        <span class="mascot-icon">&#x1F431;</span> <!-- Icono de "mascotita" en formato Unicode -->
-        <h1>PostgreSQL-PHP | Por Mabel Julon</h1>
-        <p>Bienvenido a la página de PostgreSQL-PHP</p>
-    </div>
 
-    <!-- Menú de navegación (sin cambios en los estilos) -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+<body>
+    <!-- Definición del menú -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
         <a class="navbar-brand" target="_blank" href="https://tecsup.instructure.com/courses/25788">
-            PostgreSQL-PHP | Por Mabel Julon
+        PostgreSQL-PHP | Por Mabel Julon
         </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#miNavbar">
-            <span class="navbar-toggler-icon"></span>
-        </button>
         <div class="collapse navbar-collapse" id="miNavbar">
-            <ul class="navbar-nav ml-auto">
+            <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
                     <a class="nav-link" href="./listar.php">Listar (arreglo)</a>
                 </li>
@@ -42,10 +33,6 @@
             </ul>
         </div>
     </nav>
-
-
-    <!-- JavaScript y jQuery desde la carpeta "js" (sin cambios en los estilos) -->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-</body>
-</html>
+    <!-- Termina la definición del menú -->
+    <main role="main" class="container">
+        
